@@ -1,0 +1,6 @@
+{
+  "name": "Storybook Light Sync",
+  "description": "An interactive children's storybook running entirely on-device featuring smart home lighting synchronization and custom avatars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
